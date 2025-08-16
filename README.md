@@ -8,7 +8,7 @@ this dashboard was created for **Job Seekers, Job Transtioners, and Job Sweepers
 I made this dashboard as part of a learning tutorial was going through   
 
 ## Skills Showcased
-- Data Transformation (ETL) with Power Query:e Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating 
+- **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating 
 new columns.  
 - **Implicit Measures:** Formulated measures to derive key insights and KPIS like Median Yearly Salary and Job Count'. 
 - **Core Charts:** Utilized **Column, Bar, Line,** and **Area Chart** to compare job counts and track trends over time. 
@@ -34,5 +34,13 @@ This is your mission control for the data job market. It showcases key KPIS like
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
+## Conclusion
 
+this dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. it allows users to slice, filter, and drill through data to make informed decisions about their career path.
+
+## What i learned
+
+Gained a solid understanding of Power BI functionality, including best practices for selecting appropriate chart types and effectively displaying data for clear insights.  
+Developed knowledge of measures and implemented interactive reporting features such as slicers, buttons, bookmarks, drill-throughs, and a variety of visualizations.  
+Performed data transformation (ETL) using Power Query, including cleaning, shaping, and preparing raw data by handling blanks, adjusting data types, and creating structured datasets for analysis.  
 
