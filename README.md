@@ -8,19 +8,20 @@ this dashboard was created for **Job Seekers, Job Transtioners, and Job Sweepers
 I made this dashboard as part of a learning tutorial was going through   
 
 ## Skills Showcased
-- **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating 
-new columns.  
-- **Implicit Measures:** Formulated measures to derive key insights and KPIS like Median Yearly Salary and Job Count'. 
-- **Core Charts:** Utilized **Column, Bar, Line,** and **Area Chart** to compare job counts and track trends over time. 
-- **Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distributkon of jobs. 
-- **KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data. 
-- **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story. 
+- ⚙️**Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating 
+new columns.
+- 🔗**Basic Data Modeling** (Table Relationships)
+- 🧮**Implicit Measures And Explicit Measures:** Formulated measures to derive key insights and KPIS like Median Yearly Salary and Job Count'.
+- 📊**Core Charts:** Utilized **Column, Bar, Line,** and **Area Chart** to compare job counts and track trends over time. 
+- 🗺️**Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distributkon of jobs. 
+- 🔢**KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data. 
+- 🎨**Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story. 
 
 - **Interactive Reporting:**
-  - **Slicers:** to dynamically filter the report by job title
-  - **Buttons & Bookmarks** to create seamless navigation experiance
-  - **Drill-Through** to navigate from a high-level summary to a contextual, detailed view.
-
+  - 🎚️**Slicers:** to dynamically filter the report by job title
+  - 🔘**Buttons & Bookmarks** to create seamless navigation experiance
+  - ➡️**Drill-Through** to navigate from a high-level summary to a contextual, detailed view.
+ 
 ## Dashboard Overview
 ### Page 1: High-Level market view
 
@@ -38,9 +39,4 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 
 this dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. it allows users to slice, filter, and drill through data to make informed decisions about their career path.
 
-## What i learned
-
-Gained a solid understanding of Power BI functionality, including best practices for selecting appropriate chart types and effectively displaying data for clear insights.  
-Developed knowledge of measures and implemented interactive reporting features such as slicers, buttons, bookmarks, drill-throughs, and a variety of visualizations.  
-Performed data transformation (ETL) using Power Query, including cleaning, shaping, and preparing raw data by handling blanks, adjusting data types, and creating structured datasets for analysis.  
 
