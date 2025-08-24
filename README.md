@@ -2,7 +2,7 @@
 
 ## Introduction  
 
-![Main Page](images/Data%20jobs%20Dashboard%20GIF%203.gif)
+![Main Page](images/Data%20jobs%20Dashboard%20GIF%204.gif)
 
 this dashboard was created for **Job Seekers, Job Transtioners, and Job Sweepers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job posting* (Including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compernsation.
 I made this dashboard as part of a learning tutorial was going through   
